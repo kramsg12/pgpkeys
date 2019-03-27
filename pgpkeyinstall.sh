@@ -1,1 +1,1 @@
-curl -sSL http://my.key.url | gpg --import -
+curl -sSL https://raw.githubusercontent.com/kramsg12/pgpkeys/master/kramsg1pubkey.asc | gpg --import -
